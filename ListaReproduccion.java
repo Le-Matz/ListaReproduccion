@@ -227,7 +227,7 @@ public class ListaReproduccion {
       @return null si todo es correcto, si no, arroja el primer problema
      */
     
-    /*
+    
     public String verificarIntegridad() {
         if (tamanio < 0) return "contador negativo";
         if (tamanio == 0) {
@@ -266,5 +266,5 @@ public class ListaReproduccion {
         Nodo nodoInicio() { return inicio; }
         Nodo nodoFin() { return fin; }
         Nodo nodoActual() { return actual; }
-    */
+    
 }
